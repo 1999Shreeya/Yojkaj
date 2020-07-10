@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Yojkaj/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Yojkaj/static/js/main.df327937.chunk.js",
+    "main.js.map": "/Yojkaj/static/js/main.df327937.chunk.js.map",
+    "runtime-main.js": "/Yojkaj/static/js/runtime-main.9db291c4.js",
+    "runtime-main.js.map": "/Yojkaj/static/js/runtime-main.9db291c4.js.map",
+    "static/js/2.4469448b.chunk.js": "/Yojkaj/static/js/2.4469448b.chunk.js",
+    "static/js/2.4469448b.chunk.js.map": "/Yojkaj/static/js/2.4469448b.chunk.js.map",
+    "index.html": "/Yojkaj/index.html",
+    "precache-manifest.132f2fc619b8954a6108a0bc12632e57.js": "/Yojkaj/precache-manifest.132f2fc619b8954a6108a0bc12632e57.js",
+    "service-worker.js": "/Yojkaj/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Yojkaj/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4469448b.chunk.js.LICENSE.txt": "/Yojkaj/static/js/2.4469448b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9db291c4.js",
+    "static/js/2.4469448b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.df327937.chunk.js"
+  ]
+}
