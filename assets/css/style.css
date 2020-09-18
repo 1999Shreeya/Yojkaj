@@ -2299,6 +2299,17 @@ h4.s4 {
 h4.s5 {
 	font-weight: 300;
 	font-size: 13px;
+	color: #ffffff;
+}
+
+h4.s5 a {
+	font-weight: 300;
+	font-size: 13px;
+	color: #ffffff;
+}
+
+h4.s5 a:hover {
+	color: #ffffff;
 }
 
 .call-to-action h3 {
@@ -4675,6 +4686,7 @@ table thead {
 
 p.lead {
 	font-size: 18px;
+	font-weight: 400;
 	line-height: 2em;
 	margin-top: 0;
 }
@@ -5042,7 +5054,7 @@ a:hover,
 .overlay-v i:before {
 	display: inline-block;
 	font-family: "FontAwesome";
-	content: "\f002";
+	content: "\f065";
 	background: #fff;
 	padding: 15px;
 	width: 60px;
@@ -6657,12 +6669,17 @@ a.read_more i {
 	color: inherit;
 }
 
+.timeline-body>p {
+	color: #fff;
+}
+
 .timeline-body>p,
 .timeline-body>ul {
 	margin-bottom: 0;
 }
 
 .timeline-body>p+p {
+	display: none;
 	margin-top: 5px;
 }
 
@@ -7379,7 +7396,7 @@ a.btn-slider:hover {
 }
 
 .social-icons-sm i {
-	color: #fff;
+	color: #000;
 	margin: 0 2px 0 2px;
 	width: 32px;
 	height: 32px;
@@ -7388,6 +7405,7 @@ a.btn-slider:hover {
 	border-radius: 3px;
 	background: none;
 }
+
 
 .social-icons-sm i:hover {
 	color: #ffffff;
