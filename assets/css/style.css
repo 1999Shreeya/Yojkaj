@@ -55,10 +55,9 @@
 
 /* ================================================== */
 
-@import url('https://fonts.googleapis.com/css?family=Allura');
-@import url('https://fonts.googleapis.com/css?family=Mr+De+Haviland');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Economica');
-@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Basic');
 @import url('https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i');
 
 /* ================================================== */
@@ -404,7 +403,7 @@ header.de_header_2.smaller .info {
 }
 
 #subheader h2 {
-	font-family: "Merriweather";
+	font-family: 'Courgette', cursive;
 	font-weight: 300;
 	position: relative;
 	z-index: 10;
@@ -470,8 +469,10 @@ header.de_header_2.smaller .info {
 /* ================================================== */
 
 #mainmenu {
+	font-family: 'Courgette', cursive;
 	float: right;
 	font-size: 16px;
+	letter-spacing: 1px;
 	font-weight: 600;
 	margin-right: 20px;
 }
@@ -1963,6 +1964,7 @@ a.btn-border:hover {
 	min-width: auto;
 	background: #333;
 	padding: 60px 15px 15px 15px;
+	font-family: 'Courgette', cursive;
 	font-size: 16px;
 	font-weight: bold;
 	text-decoration: none;
@@ -2163,7 +2165,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: "Merriweather";
+	font-family: 'Philosopher', sans-serif;
 	font-weight: bold;
 	color: #626570;
 }
@@ -2448,12 +2450,12 @@ h2 .de_light .text-light h2 {
 }
 
 h2.s1 {
-	font-family: "Merriweather";
+	font-family: 'Philosopher', sans-serif;
 	font-size: 28px;
 }
 
 h2.s2 {
-	font-family: '"Merriweather"';
+	font-family: 'Courgette', cursive;
 	font-size: 28px;
 	line-height: 48px;
 	font-weight: lighter;
@@ -2505,7 +2507,7 @@ h4 {
 }
 
 h4.s2 {
-	font-family: "Merriweather";
+	font-family: 'Philosopher', sans-serif;
 	font-size: 16px;
 }
 
@@ -3049,6 +3051,7 @@ span.teaser {
 }
 
 .pricing-s1 .top .price b {
+	font-family: 'Courgette', cursive;
 	font-size: 48px;
 	line-height: 70px;
 	color: #fff;
@@ -3887,7 +3890,7 @@ a.btn-right {
 
 .de_testi_by {
 	margin-top: -10px;
-	font-style: normal;
+	font-family: "Merriweather";
 	font-size: 12px;
 }
 
@@ -4299,6 +4302,8 @@ a.btn-right {
 }
 
 .pb40 {
+	font-family: 'Courgette', cursive;
+	font-size: 18px;
 	padding-bottom: 40px;
 }
 
@@ -4685,6 +4690,7 @@ table thead {
 }
 
 p.lead {
+	font-family: 'Courgette', cursive;
 	font-size: 18px;
 	font-weight: 400;
 	line-height: 2em;

@@ -55,7 +55,7 @@ section,
 }
 
 #subheader.subheader_02 {
-	background-image: url(../images_02/background/subheader.jpg);
+	background-image: url(../images/misc1/9.jpg);
 }
 
 
@@ -103,15 +103,15 @@ section,
 }
 
 #section-pricing {
-	background: url(../images_02/background/2.jpg);
+	background: url(../images/misc1/16.jpg);
 }
 
 #explore-1.side-bg .background-image {
-	background: url(../images_02/background/bg-side-1.jpg) top;
+	background: url(../images/misc1/17.jpg) top;
 }
 
 #explore-2.side-bg .background-image {
-	background: url(../images_02/background/bg-side-2.jpg) top;
+	background: url(../images/misc1/18.jpg) top;
 }
 
 /* media query */

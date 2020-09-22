@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Yojkaj/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Yojkaj/static/js/main.06a0715b.chunk.js",
-    "main.js.map": "/Yojkaj/static/js/main.06a0715b.chunk.js.map",
+    "main.js": "/Yojkaj/static/js/main.c2256fc7.chunk.js",
+    "main.js.map": "/Yojkaj/static/js/main.c2256fc7.chunk.js.map",
     "runtime-main.js": "/Yojkaj/static/js/runtime-main.9db291c4.js",
     "runtime-main.js.map": "/Yojkaj/static/js/runtime-main.9db291c4.js.map",
-    "static/js/2.cb44e046.chunk.js": "/Yojkaj/static/js/2.cb44e046.chunk.js",
-    "static/js/2.cb44e046.chunk.js.map": "/Yojkaj/static/js/2.cb44e046.chunk.js.map",
+    "static/js/2.f505a125.chunk.js": "/Yojkaj/static/js/2.f505a125.chunk.js",
+    "static/js/2.f505a125.chunk.js.map": "/Yojkaj/static/js/2.f505a125.chunk.js.map",
     "index.html": "/Yojkaj/index.html",
-    "precache-manifest.c47d2139f176a75795cf9f312cca1e64.js": "/Yojkaj/precache-manifest.c47d2139f176a75795cf9f312cca1e64.js",
+    "precache-manifest.cfaa487d785756b14e271d53b48f7b4a.js": "/Yojkaj/precache-manifest.cfaa487d785756b14e271d53b48f7b4a.js",
     "service-worker.js": "/Yojkaj/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/Yojkaj/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.cb44e046.chunk.js.LICENSE.txt": "/Yojkaj/static/js/2.cb44e046.chunk.js.LICENSE.txt"
+    "static/js/2.f505a125.chunk.js.LICENSE.txt": "/Yojkaj/static/js/2.f505a125.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9db291c4.js",
-    "static/js/2.cb44e046.chunk.js",
+    "static/js/2.f505a125.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.06a0715b.chunk.js"
+    "static/js/main.c2256fc7.chunk.js"
   ]
 }
