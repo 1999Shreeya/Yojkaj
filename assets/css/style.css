@@ -1924,6 +1924,7 @@ a.btn-custom,
 .btn-custom,
 a.btn-slider,
 .btn-slider {
+	font-family: 'Merriweather';
 	font-size: 12px;
 }
 
@@ -2165,7 +2166,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Philosopher', sans-serif;
+	font-family: 'Courgette', cursive;
 	font-weight: bold;
 	color: #626570;
 }
@@ -2299,6 +2300,7 @@ h4.s4 {
 }
 
 h4.s5 {
+	font-family: 'Merriweather';
 	font-weight: 300;
 	font-size: 13px;
 	color: #ffffff;
@@ -2450,7 +2452,7 @@ h2 .de_light .text-light h2 {
 }
 
 h2.s1 {
-	font-family: 'Philosopher', sans-serif;
+	font-family: 'Courgette', cursive;
 	font-size: 28px;
 }
 
@@ -3260,6 +3262,7 @@ span.teaser {
 	padding-left: 0;
 	margin: 0;
 	padding: 0;
+	font-family: 'Courgette', cursive;
 	font-weight: bold;
 }
 
@@ -3890,7 +3893,7 @@ a.btn-right {
 
 .de_testi_by {
 	margin-top: -10px;
-	font-family: "Merriweather";
+	font-family: 'Courgette', cursive;
 	font-size: 12px;
 }
 
@@ -4302,8 +4305,8 @@ a.btn-right {
 }
 
 .pb40 {
-	font-family: 'Courgette', cursive;
-	font-size: 18px;
+	font-family: "Merriweather";
+	font-size: 14px;
 	padding-bottom: 40px;
 }
 
@@ -4690,8 +4693,8 @@ table thead {
 }
 
 p.lead {
-	font-family: 'Courgette', cursive;
-	font-size: 18px;
+	font-family: "Merriweather";
+	font-size: 15px;
 	font-weight: 400;
 	line-height: 2em;
 	margin-top: 0;
