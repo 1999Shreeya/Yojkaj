@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f8a86e0682197fd7eac9ab671f746ae",
+    "revision": "d2584e5a611f0a0333e2998e488d3d54",
     "url": "/Yojkaj/index.html"
   },
   {
-    "revision": "635a32bac692781c248d",
+    "revision": "d6a4d66745ecfdea88bf",
     "url": "/Yojkaj/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Yojkaj/static/js/2.af54d2ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "635a32bac692781c248d",
-    "url": "/Yojkaj/static/js/main.2ab987c9.chunk.js"
+    "revision": "d6a4d66745ecfdea88bf",
+    "url": "/Yojkaj/static/js/main.1c8b6a1a.chunk.js"
   },
   {
     "revision": "d7f8bc82cdbb80f9918a",
